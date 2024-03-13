@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub\\Industrial_Informatics\\WinFormsApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21F39485-8F47-4931-945C-25F698D91084}|WinFormsApp4\\WinFormsApp4.csproj|c:\\users\\andre\\onedrive\\documents\\github\\industrial_informatics\\winformsapp4\\winformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F39485-8F47-4931-945C-25F698D91084}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F39485-8F47-4931-945C-25F698D91084}|WinFormsApp4\\WinFormsApp4.csproj|c:\\users\\andre\\onedrive\\documents\\github\\industrial_informatics\\winformsapp4\\winformsapp4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F39485-8F47-4931-945C-25F698D91084}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F39485-8F47-4931-945C-25F698D91084}|WinFormsApp4\\WinFormsApp4.csproj|c:\\users\\andre\\onedrive\\documents\\github\\industrial_informatics\\winformsapp4\\winformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F39485-8F47-4931-945C-25F698D91084}|WinFormsApp4\\WinFormsApp4.csproj|solutionrelative:winformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub\\Industrial_Informatics\\WinFormsApp4\\WinFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub\\Industrial_Informatics\\WinFormsApp4\\WinFormsApp4\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T22:43:55.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub\\Industrial_Informatics\\WinFormsApp4\\WinFormsApp4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub\\Industrial_Informatics\\WinFormsApp4\\WinFormsApp4\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp4\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T22:42:52.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub\\Industrial_Informatics\\WinFormsApp4\\WinFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documents\\GitHub\\Industrial_Informatics\\WinFormsApp4\\WinFormsApp4\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp4\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T22:35:08.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
