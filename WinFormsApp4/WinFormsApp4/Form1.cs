@@ -9,12 +9,16 @@ namespace WinFormsApp4
             InitializeComponent();
         }
 
-
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click1(object sender, EventArgs e)
         {
+           
             MessageBox.Show("Programare facuta cu succes", "Programari online");
         }
 
-        
+       private void Form1_Load(object sender, EventArgs e) {
+            StreamWriter str = new StreamWriter("fisier.txt", true);
+            str.WriteLine("Acesta este un fisier text!");
+            str.Close();
+        }
     }
 }
